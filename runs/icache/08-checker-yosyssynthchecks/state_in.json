@@ -1,0 +1,14 @@
+{
+    "json_h": "/home/vlsiuser/vlsi/my_designs/icache/runs/icache/05-yosys-jsonheader/icache.h.json",
+    "nl": "/home/vlsiuser/vlsi/my_designs/icache/runs/icache/06-yosys-synthesis/icache.nl.v",
+    "metrics": {
+        "design__lint_error__count": 0,
+        "design__lint_timing_construct__count": 0,
+        "design__lint_warning__count": 446,
+        "design__inferred_latch__count": 0,
+        "design__instance__count": 26335,
+        "design__instance__area": 410608.8064,
+        "design__instance_unmapped__count": 0,
+        "synthesis__check_error__count": 0
+    }
+}

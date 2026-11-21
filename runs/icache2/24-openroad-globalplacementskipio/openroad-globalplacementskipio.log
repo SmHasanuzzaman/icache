@@ -1,0 +1,120 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading OpenROAD database at '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/21-openroad-generatepdn/icache.odb'…
+Reading design constraints file at '/home/vlsiuser/vlsi/my_designs/icache/src/icache.sdc'…
+[INFO] No information on clock propagation in input SDC file-- propagating all clocks.
++ global_placement -density 0.568292 -skip_io -pad_right 0 -pad_left 0 -init_wirelength_coef 0.25
+[INFO GPL-0001] ---- Initialize GPL Main Data Structures
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: (  0.460  2.720 ) um
+[INFO GPL-0004] CoreBBox: (  5.520 10.880 ) ( 960.480 965.600 ) um
+[INFO GPL-0036] Movable instances area:     410608.806 um^2
+[INFO GPL-0037] Total instances area:       429585.757 um^2
+[INFO GPL-0035] Pin density area adjust:     55111.356 um^2
+[INFO GPL-0032] ---- Initialize Region: Top-level
+[INFO GPL-0006] Number of instances:             40098
+[INFO GPL-0007] Movable instances:               26335
+[INFO GPL-0008] Fixed instances:                 13763
+[INFO GPL-0009] Dummy instances:                     0
+[INFO GPL-0010] Number of nets:                  26403
+[INFO GPL-0011] Number of pins:                 102750
+[INFO GPL-0012] Die BBox:  (  0.000  0.000 ) ( 966.270 976.990 ) um
+[INFO GPL-0013] Core BBox: (  5.520 10.880 ) ( 960.480 965.600 ) um
+[INFO GPL-0016] Core area:                  911719.411 um^2
+[INFO GPL-0014] Region name: top-level.
+[INFO GPL-0015] Region area:                911719.411 um^2
+[INFO GPL-0017] Fixed instances area:        18976.950 um^2
+[INFO GPL-0018] Movable instances area:     465720.163 um^2
+[INFO GPL-0019] Utilization:                    52.167 %
+[INFO GPL-0020] Standard cells area:        465720.163 um^2
+[INFO GPL-0021] Large instances area:            0.000 um^2
+[INFO GPL-0005] ---- Execute Conjugate Gradient Initial Placement.
+[INFO GPL-0051] Source of initial instance position counters:
+	Odb location = 0	Core center = 26335	Region center = 0
+[INFO GPL-0033] ---- Initialize Nesterov Region: Top-level
+[INFO GPL-0023] Placement target density:       0.5683
+[INFO GPL-0024] Movable insts average area:     17.684 um^2
+[INFO GPL-0025] Ideal bin area:                 31.119 um^2
+[INFO GPL-0026] Ideal bin count:                 29298
+[INFO GPL-0027] Total bin area:             911719.411 um^2
+[INFO GPL-0028] Bin count (X, Y):         128 ,    128
+[INFO GPL-0029] Bin size (W * H):       7.461 *  7.459 um
+[INFO GPL-0030] Number of bins:                  16384
+[INFO GPL-0007] ---- Execute Nesterov Global Placement.
+[INFO GPL-0031] HPWL: Half-Perimeter Wirelength
+Iteration | Overflow |     HPWL (um) |  HPWL(%) |   Penalty | Group
+---------------------------------------------------------------
+        0 |   0.9996 |  7.847880e+04 |   +0.00% |  2.48e-16 |      
+       10 |   0.9994 |  4.982361e+04 |  -36.51% |  4.03e-16 |      
+       20 |   0.9994 |  4.861155e+04 |   -2.43% |  6.57e-16 |      
+       30 |   0.9994 |  4.818388e+04 |   -0.88% |  1.07e-15 |      
+       40 |   0.9994 |  4.809390e+04 |   -0.19% |  1.74e-15 |      
+       50 |   0.9994 |  4.810377e+04 |   +0.02% |  2.84e-15 |      
+       60 |   0.9994 |  4.810143e+04 |   -0.00% |  4.63e-15 |      
+       70 |   0.9994 |  4.807147e+04 |   -0.06% |  7.54e-15 |      
+       80 |   0.9994 |  4.806282e+04 |   -0.02% |  1.23e-14 |      
+       90 |   0.9993 |  4.822653e+04 |   +0.34% |  2.00e-14 |      
+      100 |   0.9990 |  4.907651e+04 |   +1.76% |  3.26e-14 |      
+      110 |   0.9988 |  5.156804e+04 |   +5.08% |  5.30e-14 |      
+      120 |   0.9981 |  5.716235e+04 |  +10.85% |  8.63e-14 |      
+      130 |   0.9970 |  6.738962e+04 |  +17.89% |  1.40e-13 |      
+      140 |   0.9947 |  8.047212e+04 |  +19.41% |  2.29e-13 |      
+      150 |   0.9917 |  9.343310e+04 |  +16.11% |  3.72e-13 |      
+      160 |   0.9877 |  1.058214e+05 |  +13.26% |  6.05e-13 |      
+      170 |   0.9832 |  1.198996e+05 |  +13.30% |  9.83e-13 |      
+      180 |   0.9767 |  1.390232e+05 |  +15.95% |  1.60e-12 |      
+      190 |   0.9664 |  1.649215e+05 |  +18.63% |  2.60e-12 |      
+      200 |   0.9521 |  1.966846e+05 |  +19.26% |  4.22e-12 |      
+      210 |   0.9341 |  2.322663e+05 |  +18.09% |  6.84e-12 |      
+      220 |   0.9109 |  2.710740e+05 |  +16.71% |  1.11e-11 |      
+      230 |   0.8802 |  3.114447e+05 |  +14.89% |  1.80e-11 |      
+      240 |   0.8453 |  3.489232e+05 |  +12.03% |  2.92e-11 |      
+      250 |   0.8090 |  3.822963e+05 |   +9.56% |  4.74e-11 |      
+      260 |   0.7731 |  4.148855e+05 |   +8.52% |  7.69e-11 |      
+      270 |   0.7229 |  4.403706e+05 |   +6.14% |  1.25e-10 |      
+      280 |   0.6769 |  4.622935e+05 |   +4.98% |  2.03e-10 |      
+      290 |   0.6250 |  4.744763e+05 |   +2.64% |  3.30e-10 |      
+      300 |   0.5700 |  4.784266e+05 |   +0.83% |  5.37e-10 |      
+      310 |   0.5344 |  4.799019e+05 |   +0.31% |  8.75e-10 |      
+      320 |   0.4946 |  4.801291e+05 |   +0.05% |  1.42e-09 |      
+      330 |   0.4536 |  4.828571e+05 |   +0.57% |  2.32e-09 |      
+      340 |   0.4185 |  4.793892e+05 |   -0.72% |  3.78e-09 |      
+      350 |   0.3801 |  4.759208e+05 |   -0.72% |  6.16e-09 |      
+      360 |   0.3451 |  4.744097e+05 |   -0.32% |  9.93e-09 |      
+      370 |   0.3193 |  4.691024e+05 |   -1.12% |  1.46e-08 |      
+      380 |   0.2936 |  4.665639e+05 |   -0.54% |  2.15e-08 |      
+      390 |   0.2695 |  4.641385e+05 |   -0.52% |  3.17e-08 |      
+      400 |   0.2468 |  4.634860e+05 |   -0.14% |  4.67e-08 |      
+      410 |   0.2255 |  4.643301e+05 |   +0.18% |  6.89e-08 |      
+      420 |   0.2029 |  4.660757e+05 |   +0.38% |  1.01e-07 |      
+      430 |   0.1803 |  4.684109e+05 |   +0.50% |  1.49e-07 |      
+      440 |   0.1576 |  4.717213e+05 |   +0.71% |  2.20e-07 |      
+      450 |   0.1337 |  4.752891e+05 |   +0.76% |  3.24e-07 |      
+      460 |   0.1118 |  4.783318e+05 |   +0.64% |  4.77e-07 |      
+      468 |   0.0984 |  4.799567e+05 |          |  6.76e-07 |      
+---------------------------------------------------------------
+[INFO GPL-1001] Global placement finished at iteration 468
+[INFO GPL-1002] Placed Cell Area            465720.1627
+[INFO GPL-1003] Available Free Area         892742.4608
+[INFO GPL-1004] Minimum Feasible Density        0.5300 (cell_area / free_area)
+[INFO GPL-1006]   Suggested Target Densities:
+[INFO GPL-1007]     - For 90% usage of free space: 0.5796
+[INFO GPL-1008]     - For 80% usage of free space: 0.6521
+[INFO GPL-1014] Final placement area: 465720.16 (+0.00%)
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 0 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               702    2635.03
+  Tap cell                              13061   16341.92
+  Buffer                                   28     140.13
+  Inverter                                 18      67.56
+  Sequential cell                        9851  210360.50
+  Multi-Input combinational cell        16438  200040.60
+  Total                                 40098  429585.76
+Writing OpenROAD database to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/24-openroad-globalplacementskipio/icache.odb'…
+Writing netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/24-openroad-globalplacementskipio/icache.nl.v'…
+Writing powered netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/24-openroad-globalplacementskipio/icache.pnl.v'…
+Writing layout to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/24-openroad-globalplacementskipio/icache.def'…
+Writing timing constraints to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/24-openroad-globalplacementskipio/icache.sdc'…

@@ -1,0 +1,181 @@
+Reading timing models for corner max_tt_025C_1v80…
+Reading timing library for the 'max_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading timing models for corner min_ss_100C_1v60…
+Reading timing library for the 'min_ss_100C_1v60' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib line 1, library sky130_fd_sc_hd__tt_025C_1v80 already exists.
+Reading timing models for corner max_ff_n40C_1v95…
+Reading timing library for the 'max_ff_n40C_1v95' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+Reading timing models for corner nom_ff_n40C_1v95…
+Reading timing library for the 'nom_ff_n40C_1v95' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1, library sky130_fd_sc_hd__ff_n40C_1v95 already exists.
+Reading timing models for corner max_ss_100C_1v60…
+Reading timing library for the 'max_ss_100C_1v60' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib line 1, library sky130_fd_sc_hd__ss_100C_1v60 already exists.
+Reading timing models for corner min_tt_025C_1v80…
+Reading timing library for the 'min_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib line 1, library sky130_fd_sc_hd__tt_025C_1v80 already exists.
+Reading timing models for corner nom_ss_100C_1v60…
+Reading timing library for the 'nom_ss_100C_1v60' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib line 1, library sky130_fd_sc_hd__ss_100C_1v60 already exists.
+Reading timing models for corner min_ff_n40C_1v95…
+Reading timing library for the 'min_ff_n40C_1v95' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1, library sky130_fd_sc_hd__ff_n40C_1v95 already exists.
+Reading OpenROAD database at '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/34-openroad-detailedplacement/icache.odb'…
+Reading design constraints file at '/home/vlsiuser/vlsi/my_designs/icache/src/icache.sdc'…
+[INFO] No information on clock propagation in input SDC file-- propagating all clocks.
+[INFO] Configuring cts characterization…
++ configure_cts_characterization 
+[INFO] Performing clock tree synthesis…
+[INFO] Looking for the following net(s): clk
+[INFO] Running Clock Tree Synthesis…
++ clock_tree_synthesis -buf_list sky130_fd_sc_hd__clkbuf_8 sky130_fd_sc_hd__clkbuf_4 sky130_fd_sc_hd__clkbuf_2 -root_buf sky130_fd_sc_hd__clkbuf_16 -sink_clustering_enable -apply_ndr half
+[INFO CTS-0050] Root buffer is sky130_fd_sc_hd__clkbuf_16.
+[INFO CTS-0051] Sink buffer is sky130_fd_sc_hd__clkbuf_8.
+[INFO CTS-0052] The following clock buffers will be used for CTS:
+                    sky130_fd_sc_hd__clkbuf_2
+                    sky130_fd_sc_hd__clkbuf_4
+                    sky130_fd_sc_hd__clkbuf_8
+[INFO CTS-0049] Characterization buffer is sky130_fd_sc_hd__clkbuf_8.
+[INFO CTS-0007] Net "clk" found for clock "clk".
+[INFO CTS-0010]  Clock net "clk" has 9851 sinks.
+[INFO CTS-0008] TritonCTS found 1 clock nets.
+[INFO CTS-0097] Characterization used 3 buffer(s) types.
+[INFO CTS-0201] 0 blockages from hard placement blockages and placed macros will be used.
+[INFO CTS-0027] Generating H-Tree topology for net clk.
+[INFO CTS-0028]  Total number of sinks: 9851.
+[INFO CTS-0090]  Sinks will be clustered based on buffer max cap.
+[INFO CTS-0030]  Number of static layers: 0.
+[INFO CTS-0020]  Wire segment unit: 13600  dbu (13 um).
+[INFO CTS-0206] Best clustering solution was found from clustering size of 10 and clustering diameter of 50.
+[INFO CTS-0019]  Total number of sinks after clustering: 969.
+[INFO CTS-0024]  Normalized sink region: [(0.902655, 1.3826), (69.4746, 70.3618)].
+[INFO CTS-0025]     Width:  68.5719.
+[INFO CTS-0026]     Height: 68.9792.
+ Level 1
+    Direction: Vertical
+    Sinks per sub-region: 485
+    Sub-region size: 68.5719 X 34.4896
+[INFO CTS-0034]     Segment length (rounded): 18.
+ Level 2
+    Direction: Horizontal
+    Sinks per sub-region: 243
+    Sub-region size: 34.2860 X 34.4896
+[INFO CTS-0034]     Segment length (rounded): 18.
+ Level 3
+    Direction: Vertical
+    Sinks per sub-region: 122
+    Sub-region size: 34.2860 X 17.2448
+[INFO CTS-0034]     Segment length (rounded): 8.
+ Level 4
+    Direction: Horizontal
+    Sinks per sub-region: 61
+    Sub-region size: 17.1430 X 17.2448
+[INFO CTS-0034]     Segment length (rounded): 8.
+ Level 5
+    Direction: Vertical
+    Sinks per sub-region: 31
+    Sub-region size: 17.1430 X 8.6224
+[INFO CTS-0034]     Segment length (rounded): 4.
+ Level 6
+    Direction: Horizontal
+    Sinks per sub-region: 16
+    Sub-region size: 8.5715 X 8.6224
+[INFO CTS-0034]     Segment length (rounded): 4.
+ Level 7
+    Direction: Vertical
+    Sinks per sub-region: 8
+    Sub-region size: 8.5715 X 4.3112
+[INFO CTS-0034]     Segment length (rounded): 2.
+[INFO CTS-0032]  Stop criterion found. Max number of sinks is 15.
+[INFO CTS-0035]  Number of sinks covered: 969.
+[INFO CTS-0018]     Created 1118 clock buffers.
+[INFO CTS-0012]     Minimum number of buffers in the clock path: 5.
+[INFO CTS-0013]     Maximum number of buffers in the clock path: 5.
+[INFO CTS-0015]     Created 1118 clock nets.
+[INFO CTS-0016]     Fanout distribution for the current clock = 3:1, 4:2, 5:3, 6:23, 7:42, 8:49, 9:184, 10:466, 11:272, 12:53, 13:2..
+[INFO CTS-0017]     Max level of the clock tree: 7.
+[INFO CTS-0098] Clock net "clk"
+[INFO CTS-0099]  Sinks 10637
+[INFO CTS-0100]  Leaf buffers 969
+[INFO CTS-0101]  Average sink wire length 1705.93 um
+[INFO CTS-0102]  Path depth 4 - 5
+[INFO CTS-0207]  Dummy loads inserted 786
+[INFO] Repairing long wires on clock nets…
+[INFO RSZ-0058] Using max wire length 6884um.
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 7616 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               702    2635.03
+  Tap cell                              13061   16341.92
+  Buffer                                   28     140.13
+  Clock buffer                           1755   23236.04
+  Timing Repair Buffer                    719   13111.32
+  Inverter                                 18     112.61
+  Clock inverter                          149    1184.89
+  Sequential cell                        9851  210363.00
+  Multi-Input combinational cell        16438  201060.33
+  Total                                 42721  468185.28
+Writing OpenROAD database to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.odb'…
+Writing netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.nl.v'…
+Writing powered netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.pnl.v'…
+Writing layout to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.def'…
+Writing timing constraints to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.sdc'…
+[INFO] Legalizing…
++ detailed_placement -max_displacement  500 100 
+Placement Analysis
+---------------------------------
+total displacement       9336.8 u
+average displacement        0.2 u
+max displacement           19.0 u
+original HPWL          851908.5 u
+legalized HPWL         865744.9 u
+delta HPWL                    2 %
+
+[INFO DPL-0020] Mirrored 4825 instances
+[INFO DPL-0021] HPWL before          865744.9 u
+[INFO DPL-0022] HPWL after           854106.9 u
+[INFO DPL-0023] HPWL delta               -1.3 %
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 0 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               702    2635.03
+  Tap cell                              13061   16341.92
+  Buffer                                   28     140.13
+  Clock buffer                           1755   23236.04
+  Timing Repair Buffer                    719   13111.32
+  Inverter                                 18     112.61
+  Clock inverter                          149    1184.89
+  Sequential cell                        9851  210363.00
+  Multi-Input combinational cell        16438  201060.33
+  Total                                 42721  468185.28
+Writing OpenROAD database to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.odb'…
+Writing netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.nl.v'…
+Writing powered netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.pnl.v'…
+Writing layout to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.def'…
+Writing timing constraints to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache2/35-openroad-cts/icache.sdc'…
+%OL_CREATE_REPORT cts.rpt
+Total number of Clock Roots: 1.
+Total number of Buffers Inserted: 1118.
+Total number of Clock Subnets: 1118.
+Total number of Sinks: 9851.
+Cells used:
+  sky130_fd_sc_hd__clkbuf_8: 989
+  sky130_fd_sc_hd__clkbuf_16: 129
+Dummys used:
+  sky130_fd_sc_hd__bufinv_16: 6
+  sky130_fd_sc_hd__clkbuf_4: 379
+  sky130_fd_sc_hd__clkbuf_8: 258
+  sky130_fd_sc_hd__clkinv_2: 69
+  sky130_fd_sc_hd__clkinv_4: 2
+  sky130_fd_sc_hd__clkinv_8: 1
+  sky130_fd_sc_hd__clkinvlp_4: 33
+  sky130_fd_sc_hd__inv_6: 24
+  sky130_fd_sc_hd__inv_8: 12
+  sky130_fd_sc_hd__inv_12: 2
+%OL_END_REPORT

@@ -1,0 +1,67 @@
+{
+   "creator": "Yosys 0.62 (git sha1 7326bb7d6641500ecb285c291a54a662cb1e76cf, clang++ 21.1.2 -fPIC -O3)",
+   "invocation": "stat -json -liberty /home/vlsiuser/vlsi/my_designs/icache/runs/icache2/tmp/a9627204e77348e5839de719d0b4a8d1.lib ",
+   "modules": {
+      "\\icache": {
+         "num_wires":         20776,
+         "num_wire_bits":     30662,
+         "num_pub_wires":     339,
+         "num_pub_wire_bits": 9985,
+         "num_ports":         12,
+         "num_port_bits":     198,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         30497,
+         "num_submodules":       0,
+         "area":              210360.502400,
+         "sequential_area":    210360.502400,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 427,
+            "$_AND_": 13,
+            "$_MUX_": 19489,
+            "$_NAND_": 36,
+            "$_NOR_": 10,
+            "$_NOT_": 10,
+            "$_ORNOT_": 49,
+            "$_OR_": 522,
+            "$_XNOR_": 24,
+            "$_XOR_": 66,
+            "sky130_fd_sc_hd__dfrtp_2": 164,
+            "sky130_fd_sc_hd__dfstp_2": 1,
+            "sky130_fd_sc_hd__dfxtp_2": 9686
+         }
+      }
+   },
+      "design": {
+         "num_wires":         20776,
+         "num_wire_bits":     30662,
+         "num_pub_wires":     339,
+         "num_pub_wire_bits": 9985,
+         "num_ports":         12,
+         "num_port_bits":     198,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         30497,
+         "num_submodules":       0,
+         "area":              210360.502400,
+         "sequential_area":    210360.502400,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 427,
+            "$_AND_": 13,
+            "$_MUX_": 19489,
+            "$_NAND_": 36,
+            "$_NOR_": 10,
+            "$_NOT_": 10,
+            "$_ORNOT_": 49,
+            "$_OR_": 522,
+            "$_XNOR_": 24,
+            "$_XOR_": 66,
+            "sky130_fd_sc_hd__dfrtp_2": 164,
+            "sky130_fd_sc_hd__dfstp_2": 1,
+            "sky130_fd_sc_hd__dfxtp_2": 9686
+         }
+      }
+}
+

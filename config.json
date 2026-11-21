@@ -1,0 +1,12 @@
+{
+  "DESIGN_NAME":      "icache",
+  "VERILOG_FILES":    "dir::src/*.v",
+  "CLOCK_PORT":       "clk",
+  "CLOCK_PERIOD":     10,
+  "PNR_SDC_FILE":     "dir::src/icache.sdc",
+  "SIGNOFF_SDC_FILE": "dir::src/icache.sdc",
+  "FP_CORE_UTIL":     45,
+  "PDN_VPITCH":       30,
+  "PDN_HPITCH":       30,
+  "PDN_SKIPTRIM":     true
+}

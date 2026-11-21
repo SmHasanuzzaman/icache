@@ -1,0 +1,2576 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO icache
+  CLASS BLOCK ;
+  FOREIGN icache ;
+  ORIGIN 0.000 0.000 ;
+  SIZE 966.270 BY 976.990 ;
+  PIN VGND
+    DIRECTION INOUT ;
+    USE GROUND ;
+    PORT
+      LAYER met4 ;
+        RECT 24.340 10.640 25.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 54.340 10.640 55.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 84.340 10.640 85.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 114.340 10.640 115.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 144.340 10.640 145.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 174.340 10.640 175.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 204.340 10.640 205.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 234.340 10.640 235.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 264.340 10.640 265.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 294.340 10.640 295.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 324.340 10.640 325.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 354.340 10.640 355.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 384.340 10.640 385.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 414.340 10.640 415.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 444.340 10.640 445.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 474.340 10.640 475.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 504.340 10.640 505.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 534.340 10.640 535.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 564.340 10.640 565.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 594.340 10.640 595.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 624.340 10.640 625.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 654.340 10.640 655.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 684.340 10.640 685.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 714.340 10.640 715.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 744.340 10.640 745.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 774.340 10.640 775.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 804.340 10.640 805.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 834.340 10.640 835.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 864.340 10.640 865.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 894.340 10.640 895.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 924.340 10.640 925.940 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 954.340 10.640 955.940 965.840 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 30.030 960.480 31.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 60.030 960.480 61.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 90.030 960.480 91.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 120.030 960.480 121.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 150.030 960.480 151.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 180.030 960.480 181.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 210.030 960.480 211.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 240.030 960.480 241.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 270.030 960.480 271.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 300.030 960.480 301.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 330.030 960.480 331.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 360.030 960.480 361.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 390.030 960.480 391.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 420.030 960.480 421.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 450.030 960.480 451.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 480.030 960.480 481.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 510.030 960.480 511.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 540.030 960.480 541.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 570.030 960.480 571.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 600.030 960.480 601.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 630.030 960.480 631.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 660.030 960.480 661.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 690.030 960.480 691.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 720.030 960.480 721.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 750.030 960.480 751.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 780.030 960.480 781.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 810.030 960.480 811.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 840.030 960.480 841.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 870.030 960.480 871.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 900.030 960.480 901.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 930.030 960.480 931.630 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 960.030 960.480 961.630 ;
+    END
+  END VGND
+  PIN VPWR
+    DIRECTION INOUT ;
+    USE POWER ;
+    PORT
+      LAYER met4 ;
+        RECT 21.040 10.640 22.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 51.040 10.640 52.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 81.040 10.640 82.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 111.040 10.640 112.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 141.040 10.640 142.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 171.040 10.640 172.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 201.040 10.640 202.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 231.040 10.640 232.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 261.040 10.640 262.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 291.040 10.640 292.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 321.040 10.640 322.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 351.040 10.640 352.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 381.040 10.640 382.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 411.040 10.640 412.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 441.040 10.640 442.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 471.040 10.640 472.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 501.040 10.640 502.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 531.040 10.640 532.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 561.040 10.640 562.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 591.040 10.640 592.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 621.040 10.640 622.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 651.040 10.640 652.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 681.040 10.640 682.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 711.040 10.640 712.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 741.040 10.640 742.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 771.040 10.640 772.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 801.040 10.640 802.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 831.040 10.640 832.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 861.040 10.640 862.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 891.040 10.640 892.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 921.040 10.640 922.640 965.840 ;
+    END
+    PORT
+      LAYER met4 ;
+        RECT 951.040 10.640 952.640 965.840 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 26.730 960.480 28.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 56.730 960.480 58.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 86.730 960.480 88.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 116.730 960.480 118.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 146.730 960.480 148.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 176.730 960.480 178.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 206.730 960.480 208.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 236.730 960.480 238.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 266.730 960.480 268.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 296.730 960.480 298.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 326.730 960.480 328.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 356.730 960.480 358.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 386.730 960.480 388.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 416.730 960.480 418.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 446.730 960.480 448.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 476.730 960.480 478.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 506.730 960.480 508.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 536.730 960.480 538.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 566.730 960.480 568.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 596.730 960.480 598.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 626.730 960.480 628.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 656.730 960.480 658.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 686.730 960.480 688.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 716.730 960.480 718.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 746.730 960.480 748.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 776.730 960.480 778.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 806.730 960.480 808.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 836.730 960.480 838.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 866.730 960.480 868.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 896.730 960.480 898.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 926.730 960.480 928.330 ;
+    END
+    PORT
+      LAYER met5 ;
+        RECT 5.520 956.730 960.480 958.330 ;
+    END
+  END VPWR
+  PIN clk
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.852000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 958.840 0.600 959.440 ;
+    END
+  END clk
+  PIN cpu_addr[0]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    PORT
+      LAYER met2 ;
+        RECT 1.930 0.000 2.210 0.280 ;
+    END
+  END cpu_addr[0]
+  PIN cpu_addr[10]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 616.120 0.600 616.720 ;
+    END
+  END cpu_addr[10]
+  PIN cpu_addr[11]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 614.760 0.600 615.360 ;
+    END
+  END cpu_addr[11]
+  PIN cpu_addr[12]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 588.920 0.600 589.520 ;
+    END
+  END cpu_addr[12]
+  PIN cpu_addr[13]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 597.080 0.600 597.680 ;
+    END
+  END cpu_addr[13]
+  PIN cpu_addr[14]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 590.280 0.600 590.880 ;
+    END
+  END cpu_addr[14]
+  PIN cpu_addr[15]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 541.320 0.600 541.920 ;
+    END
+  END cpu_addr[15]
+  PIN cpu_addr[16]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 601.160 0.600 601.760 ;
+    END
+  END cpu_addr[16]
+  PIN cpu_addr[17]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 606.600 0.600 607.200 ;
+    END
+  END cpu_addr[17]
+  PIN cpu_addr[18]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 594.360 0.600 594.960 ;
+    END
+  END cpu_addr[18]
+  PIN cpu_addr[19]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 607.960 0.600 608.560 ;
+    END
+  END cpu_addr[19]
+  PIN cpu_addr[1]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    PORT
+      LAYER met2 ;
+        RECT 2.850 0.000 3.130 0.280 ;
+    END
+  END cpu_addr[1]
+  PIN cpu_addr[20]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 603.880 0.600 604.480 ;
+    END
+  END cpu_addr[20]
+  PIN cpu_addr[21]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 595.720 0.600 596.320 ;
+    END
+  END cpu_addr[21]
+  PIN cpu_addr[22]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 613.400 0.600 614.000 ;
+    END
+  END cpu_addr[22]
+  PIN cpu_addr[23]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 599.800 0.600 600.400 ;
+    END
+  END cpu_addr[23]
+  PIN cpu_addr[24]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 605.240 0.600 605.840 ;
+    END
+  END cpu_addr[24]
+  PIN cpu_addr[25]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 609.320 0.600 609.920 ;
+    END
+  END cpu_addr[25]
+  PIN cpu_addr[26]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 610.680 0.600 611.280 ;
+    END
+  END cpu_addr[26]
+  PIN cpu_addr[27]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 612.040 0.600 612.640 ;
+    END
+  END cpu_addr[27]
+  PIN cpu_addr[28]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 568.520 0.600 569.120 ;
+    END
+  END cpu_addr[28]
+  PIN cpu_addr[29]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 593.000 0.600 593.600 ;
+    END
+  END cpu_addr[29]
+  PIN cpu_addr[2]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 1.347000 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 17.720 966.270 18.320 ;
+    END
+  END cpu_addr[2]
+  PIN cpu_addr[30]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 602.520 0.600 603.120 ;
+    END
+  END cpu_addr[30]
+  PIN cpu_addr[31]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 591.640 0.600 592.240 ;
+    END
+  END cpu_addr[31]
+  PIN cpu_addr[3]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.990000 ;
+    PORT
+      LAYER met2 ;
+        RECT 29.530 0.000 29.810 0.280 ;
+    END
+  END cpu_addr[3]
+  PIN cpu_addr[4]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 1.347000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 952.040 0.600 952.640 ;
+    END
+  END cpu_addr[4]
+  PIN cpu_addr[5]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 947.960 0.600 948.560 ;
+    END
+  END cpu_addr[5]
+  PIN cpu_addr[6]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 942.520 0.600 943.120 ;
+    END
+  END cpu_addr[6]
+  PIN cpu_addr[7]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 934.360 0.600 934.960 ;
+    END
+  END cpu_addr[7]
+  PIN cpu_addr[8]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 859.560 0.600 860.160 ;
+    END
+  END cpu_addr[8]
+  PIN cpu_addr[9]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 512.760 0.600 513.360 ;
+    END
+  END cpu_addr[9]
+  PIN cpu_rdata[0]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 433.880 966.270 434.480 ;
+    END
+  END cpu_rdata[0]
+  PIN cpu_rdata[10]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 465.160 966.270 465.760 ;
+    END
+  END cpu_rdata[10]
+  PIN cpu_rdata[11]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 502.410 0.000 502.690 0.280 ;
+    END
+  END cpu_rdata[11]
+  PIN cpu_rdata[12]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 490.450 0.000 490.730 0.280 ;
+    END
+  END cpu_rdata[12]
+  PIN cpu_rdata[13]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 410.760 966.270 411.360 ;
+    END
+  END cpu_rdata[13]
+  PIN cpu_rdata[14]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 417.560 966.270 418.160 ;
+    END
+  END cpu_rdata[14]
+  PIN cpu_rdata[15]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 431.160 966.270 431.760 ;
+    END
+  END cpu_rdata[15]
+  PIN cpu_rdata[16]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 414.840 966.270 415.440 ;
+    END
+  END cpu_rdata[16]
+  PIN cpu_rdata[17]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 505.960 966.270 506.560 ;
+    END
+  END cpu_rdata[17]
+  PIN cpu_rdata[18]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 412.120 966.270 412.720 ;
+    END
+  END cpu_rdata[18]
+  PIN cpu_rdata[19]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 514.120 966.270 514.720 ;
+    END
+  END cpu_rdata[19]
+  PIN cpu_rdata[1]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 413.480 966.270 414.080 ;
+    END
+  END cpu_rdata[1]
+  PIN cpu_rdata[20]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 416.200 966.270 416.800 ;
+    END
+  END cpu_rdata[20]
+  PIN cpu_rdata[21]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 442.040 966.270 442.640 ;
+    END
+  END cpu_rdata[21]
+  PIN cpu_rdata[22]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 478.490 0.000 478.770 0.280 ;
+    END
+  END cpu_rdata[22]
+  PIN cpu_rdata[23]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 503.330 976.710 503.610 976.990 ;
+    END
+  END cpu_rdata[23]
+  PIN cpu_rdata[24]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 427.080 966.270 427.680 ;
+    END
+  END cpu_rdata[24]
+  PIN cpu_rdata[25]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 418.920 966.270 419.520 ;
+    END
+  END cpu_rdata[25]
+  PIN cpu_rdata[26]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 420.280 966.270 420.880 ;
+    END
+  END cpu_rdata[26]
+  PIN cpu_rdata[27]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 429.800 966.270 430.400 ;
+    END
+  END cpu_rdata[27]
+  PIN cpu_rdata[28]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 435.240 966.270 435.840 ;
+    END
+  END cpu_rdata[28]
+  PIN cpu_rdata[29]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 425.720 966.270 426.320 ;
+    END
+  END cpu_rdata[29]
+  PIN cpu_rdata[2]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 443.400 966.270 444.000 ;
+    END
+  END cpu_rdata[2]
+  PIN cpu_rdata[30]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 463.800 966.270 464.400 ;
+    END
+  END cpu_rdata[30]
+  PIN cpu_rdata[31]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 458.360 966.270 458.960 ;
+    END
+  END cpu_rdata[31]
+  PIN cpu_rdata[3]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 509.770 976.710 510.050 976.990 ;
+    END
+  END cpu_rdata[3]
+  PIN cpu_rdata[4]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 421.640 966.270 422.240 ;
+    END
+  END cpu_rdata[4]
+  PIN cpu_rdata[5]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 428.440 966.270 429.040 ;
+    END
+  END cpu_rdata[5]
+  PIN cpu_rdata[6]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 504.250 976.710 504.530 976.990 ;
+    END
+  END cpu_rdata[6]
+  PIN cpu_rdata[7]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 423.000 966.270 423.600 ;
+    END
+  END cpu_rdata[7]
+  PIN cpu_rdata[8]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 432.520 966.270 433.120 ;
+    END
+  END cpu_rdata[8]
+  PIN cpu_rdata[9]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 424.360 966.270 424.960 ;
+    END
+  END cpu_rdata[9]
+  PIN cpu_ready
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.126000 ;
+    ANTENNADIFFAREA 0.429000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 515.480 0.600 516.080 ;
+    END
+  END cpu_ready
+  PIN cpu_req
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 514.120 0.600 514.720 ;
+    END
+  END cpu_req
+  PIN hit_cnt[0]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 492.360 0.600 492.960 ;
+    END
+  END hit_cnt[0]
+  PIN hit_cnt[10]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 476.040 0.600 476.640 ;
+    END
+  END hit_cnt[10]
+  PIN hit_cnt[11]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 474.680 0.600 475.280 ;
+    END
+  END hit_cnt[11]
+  PIN hit_cnt[12]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 462.440 0.600 463.040 ;
+    END
+  END hit_cnt[12]
+  PIN hit_cnt[13]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 461.080 0.600 461.680 ;
+    END
+  END hit_cnt[13]
+  PIN hit_cnt[14]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 458.360 0.600 458.960 ;
+    END
+  END hit_cnt[14]
+  PIN hit_cnt[15]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 457.000 0.600 457.600 ;
+    END
+  END hit_cnt[15]
+  PIN hit_cnt[16]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 451.560 0.600 452.160 ;
+    END
+  END hit_cnt[16]
+  PIN hit_cnt[17]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 448.840 0.600 449.440 ;
+    END
+  END hit_cnt[17]
+  PIN hit_cnt[18]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 437.960 0.600 438.560 ;
+    END
+  END hit_cnt[18]
+  PIN hit_cnt[19]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 435.240 0.600 435.840 ;
+    END
+  END hit_cnt[19]
+  PIN hit_cnt[1]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 485.560 0.600 486.160 ;
+    END
+  END hit_cnt[1]
+  PIN hit_cnt[20]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 443.400 0.600 444.000 ;
+    END
+  END hit_cnt[20]
+  PIN hit_cnt[21]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 446.120 0.600 446.720 ;
+    END
+  END hit_cnt[21]
+  PIN hit_cnt[22]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 442.040 0.600 442.640 ;
+    END
+  END hit_cnt[22]
+  PIN hit_cnt[23]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 440.680 0.600 441.280 ;
+    END
+  END hit_cnt[23]
+  PIN hit_cnt[24]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 439.320 0.600 439.920 ;
+    END
+  END hit_cnt[24]
+  PIN hit_cnt[25]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 386.490 0.000 386.770 0.280 ;
+    END
+  END hit_cnt[25]
+  PIN hit_cnt[26]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 387.410 0.000 387.690 0.280 ;
+    END
+  END hit_cnt[26]
+  PIN hit_cnt[27]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 390.170 0.000 390.450 0.280 ;
+    END
+  END hit_cnt[27]
+  PIN hit_cnt[28]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 400.290 0.000 400.570 0.280 ;
+    END
+  END hit_cnt[28]
+  PIN hit_cnt[29]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 404.890 0.000 405.170 0.280 ;
+    END
+  END hit_cnt[29]
+  PIN hit_cnt[2]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 482.840 0.600 483.440 ;
+    END
+  END hit_cnt[2]
+  PIN hit_cnt[30]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 414.090 0.000 414.370 0.280 ;
+    END
+  END hit_cnt[30]
+  PIN hit_cnt[31]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 415.010 0.000 415.290 0.280 ;
+    END
+  END hit_cnt[31]
+  PIN hit_cnt[3]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 470.600 0.600 471.200 ;
+    END
+  END hit_cnt[3]
+  PIN hit_cnt[4]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 465.160 0.600 465.760 ;
+    END
+  END hit_cnt[4]
+  PIN hit_cnt[5]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 463.800 0.600 464.400 ;
+    END
+  END hit_cnt[5]
+  PIN hit_cnt[6]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 471.960 0.600 472.560 ;
+    END
+  END hit_cnt[6]
+  PIN hit_cnt[7]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 459.720 0.600 460.320 ;
+    END
+  END hit_cnt[7]
+  PIN hit_cnt[8]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 455.640 0.600 456.240 ;
+    END
+  END hit_cnt[8]
+  PIN hit_cnt[9]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 450.200 0.600 450.800 ;
+    END
+  END hit_cnt[9]
+  PIN mem_addr[0]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    PORT
+      LAYER met2 ;
+        RECT 921.930 0.000 922.210 0.280 ;
+    END
+  END mem_addr[0]
+  PIN mem_addr[10]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 692.280 0.600 692.880 ;
+    END
+  END mem_addr[10]
+  PIN mem_addr[11]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 375.400 0.600 376.000 ;
+    END
+  END mem_addr[11]
+  PIN mem_addr[12]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 797.000 0.600 797.600 ;
+    END
+  END mem_addr[12]
+  PIN mem_addr[13]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 572.600 0.600 573.200 ;
+    END
+  END mem_addr[13]
+  PIN mem_addr[14]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 782.040 0.600 782.640 ;
+    END
+  END mem_addr[14]
+  PIN mem_addr[15]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 571.240 0.600 571.840 ;
+    END
+  END mem_addr[15]
+  PIN mem_addr[16]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 569.880 0.600 570.480 ;
+    END
+  END mem_addr[16]
+  PIN mem_addr[17]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 436.600 0.600 437.200 ;
+    END
+  END mem_addr[17]
+  PIN mem_addr[18]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 582.120 0.600 582.720 ;
+    END
+  END mem_addr[18]
+  PIN mem_addr[19]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 775.240 0.600 775.840 ;
+    END
+  END mem_addr[19]
+  PIN mem_addr[1]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    PORT
+      LAYER met2 ;
+        RECT 866.730 0.000 867.010 0.280 ;
+    END
+  END mem_addr[1]
+  PIN mem_addr[20]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 816.040 0.600 816.640 ;
+    END
+  END mem_addr[20]
+  PIN mem_addr[21]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 624.280 0.600 624.880 ;
+    END
+  END mem_addr[21]
+  PIN mem_addr[22]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 756.200 0.600 756.800 ;
+    END
+  END mem_addr[22]
+  PIN mem_addr[23]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 583.480 0.600 584.080 ;
+    END
+  END mem_addr[23]
+  PIN mem_addr[24]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 722.200 0.600 722.800 ;
+    END
+  END mem_addr[24]
+  PIN mem_addr[25]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 418.920 0.600 419.520 ;
+    END
+  END mem_addr[25]
+  PIN mem_addr[26]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 792.920 0.600 793.520 ;
+    END
+  END mem_addr[26]
+  PIN mem_addr[27]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 735.800 0.600 736.400 ;
+    END
+  END mem_addr[27]
+  PIN mem_addr[28]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 598.440 0.600 599.040 ;
+    END
+  END mem_addr[28]
+  PIN mem_addr[29]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 417.560 0.600 418.160 ;
+    END
+  END mem_addr[29]
+  PIN mem_addr[2]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 503.240 0.600 503.840 ;
+    END
+  END mem_addr[2]
+  PIN mem_addr[30]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met2 ;
+        RECT 324.850 976.710 325.130 976.990 ;
+    END
+  END mem_addr[30]
+  PIN mem_addr[31]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 780.680 0.600 781.280 ;
+    END
+  END mem_addr[31]
+  PIN mem_addr[3]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 501.880 0.600 502.480 ;
+    END
+  END mem_addr[3]
+  PIN mem_addr[4]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 584.840 0.600 585.440 ;
+    END
+  END mem_addr[4]
+  PIN mem_addr[5]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 586.200 0.600 586.800 ;
+    END
+  END mem_addr[5]
+  PIN mem_addr[6]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 567.160 0.600 567.760 ;
+    END
+  END mem_addr[6]
+  PIN mem_addr[7]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 565.800 0.600 566.400 ;
+    END
+  END mem_addr[7]
+  PIN mem_addr[8]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 454.280 0.600 454.880 ;
+    END
+  END mem_addr[8]
+  PIN mem_addr[9]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 452.920 0.600 453.520 ;
+    END
+  END mem_addr[9]
+  PIN mem_rdata[0]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 200.650 0.000 200.930 0.280 ;
+    END
+  END mem_rdata[0]
+  PIN mem_rdata[10]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 55.800 966.270 56.400 ;
+    END
+  END mem_rdata[10]
+  PIN mem_rdata[11]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 185.930 0.000 186.210 0.280 ;
+    END
+  END mem_rdata[11]
+  PIN mem_rdata[12]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 888.120 0.600 888.720 ;
+    END
+  END mem_rdata[12]
+  PIN mem_rdata[13]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 226.410 0.000 226.690 0.280 ;
+    END
+  END mem_rdata[13]
+  PIN mem_rdata[14]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 186.850 0.000 187.130 0.280 ;
+    END
+  END mem_rdata[14]
+  PIN mem_rdata[15]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 755.410 976.710 755.690 976.990 ;
+    END
+  END mem_rdata[15]
+  PIN mem_rdata[16]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 136.040 966.270 136.640 ;
+    END
+  END mem_rdata[16]
+  PIN mem_rdata[17]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 242.970 0.000 243.250 0.280 ;
+    END
+  END mem_rdata[17]
+  PIN mem_rdata[18]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 263.210 0.000 263.490 0.280 ;
+    END
+  END mem_rdata[18]
+  PIN mem_rdata[19]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 894.920 0.600 895.520 ;
+    END
+  END mem_rdata[19]
+  PIN mem_rdata[1]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 210.770 0.000 211.050 0.280 ;
+    END
+  END mem_rdata[1]
+  PIN mem_rdata[20]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 187.770 0.000 188.050 0.280 ;
+    END
+  END mem_rdata[20]
+  PIN mem_rdata[21]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 92.520 966.270 93.120 ;
+    END
+  END mem_rdata[21]
+  PIN mem_rdata[22]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 779.330 976.710 779.610 976.990 ;
+    END
+  END mem_rdata[22]
+  PIN mem_rdata[23]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 865.000 0.600 865.600 ;
+    END
+  END mem_rdata[23]
+  PIN mem_rdata[24]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 19.080 966.270 19.680 ;
+    END
+  END mem_rdata[24]
+  PIN mem_rdata[25]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 882.370 976.710 882.650 976.990 ;
+    END
+  END mem_rdata[25]
+  PIN mem_rdata[26]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 188.690 0.000 188.970 0.280 ;
+    END
+  END mem_rdata[26]
+  PIN mem_rdata[27]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 189.610 0.000 189.890 0.280 ;
+    END
+  END mem_rdata[27]
+  PIN mem_rdata[28]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 84.360 966.270 84.960 ;
+    END
+  END mem_rdata[28]
+  PIN mem_rdata[29]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 108.840 966.270 109.440 ;
+    END
+  END mem_rdata[29]
+  PIN mem_rdata[2]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 72.120 966.270 72.720 ;
+    END
+  END mem_rdata[2]
+  PIN mem_rdata[30]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 273.400 966.270 274.000 ;
+    END
+  END mem_rdata[30]
+  PIN mem_rdata[31]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 123.800 966.270 124.400 ;
+    END
+  END mem_rdata[31]
+  PIN mem_rdata[3]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 110.200 966.270 110.800 ;
+    END
+  END mem_rdata[3]
+  PIN mem_rdata[4]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 20.440 966.270 21.040 ;
+    END
+  END mem_rdata[4]
+  PIN mem_rdata[5]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 874.520 0.600 875.120 ;
+    END
+  END mem_rdata[5]
+  PIN mem_rdata[6]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 701.800 0.600 702.400 ;
+    END
+  END mem_rdata[6]
+  PIN mem_rdata[7]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 16.360 966.270 16.960 ;
+    END
+  END mem_rdata[7]
+  PIN mem_rdata[8]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 269.650 0.000 269.930 0.280 ;
+    END
+  END mem_rdata[8]
+  PIN mem_rdata[9]
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.742500 ;
+    PORT
+      LAYER met2 ;
+        RECT 895.250 976.710 895.530 976.990 ;
+    END
+  END mem_rdata[9]
+  PIN mem_req
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 510.040 0.600 510.640 ;
+    END
+  END mem_req
+  PIN mem_valid
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.213000 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 504.600 0.600 505.200 ;
+    END
+  END mem_valid
+  PIN miss_cnt[0]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 0.000 511.400 0.600 512.000 ;
+    END
+  END miss_cnt[0]
+  PIN miss_cnt[10]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 495.080 966.270 495.680 ;
+    END
+  END miss_cnt[10]
+  PIN miss_cnt[11]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 503.240 966.270 503.840 ;
+    END
+  END miss_cnt[11]
+  PIN miss_cnt[12]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 511.400 966.270 512.000 ;
+    END
+  END miss_cnt[12]
+  PIN miss_cnt[13]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 512.760 966.270 513.360 ;
+    END
+  END miss_cnt[13]
+  PIN miss_cnt[14]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 516.840 966.270 517.440 ;
+    END
+  END miss_cnt[14]
+  PIN miss_cnt[15]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 515.480 966.270 516.080 ;
+    END
+  END miss_cnt[15]
+  PIN miss_cnt[16]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 518.200 966.270 518.800 ;
+    END
+  END miss_cnt[16]
+  PIN miss_cnt[17]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 531.800 966.270 532.400 ;
+    END
+  END miss_cnt[17]
+  PIN miss_cnt[18]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 533.160 966.270 533.760 ;
+    END
+  END miss_cnt[18]
+  PIN miss_cnt[19]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 529.080 966.270 529.680 ;
+    END
+  END miss_cnt[19]
+  PIN miss_cnt[1]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 510.040 966.270 510.640 ;
+    END
+  END miss_cnt[1]
+  PIN miss_cnt[20]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 526.360 966.270 526.960 ;
+    END
+  END miss_cnt[20]
+  PIN miss_cnt[21]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 527.720 966.270 528.320 ;
+    END
+  END miss_cnt[21]
+  PIN miss_cnt[22]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 535.880 966.270 536.480 ;
+    END
+  END miss_cnt[22]
+  PIN miss_cnt[23]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 545.400 966.270 546.000 ;
+    END
+  END miss_cnt[23]
+  PIN miss_cnt[24]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 548.120 966.270 548.720 ;
+    END
+  END miss_cnt[24]
+  PIN miss_cnt[25]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 560.360 966.270 560.960 ;
+    END
+  END miss_cnt[25]
+  PIN miss_cnt[26]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 561.720 966.270 562.320 ;
+    END
+  END miss_cnt[26]
+  PIN miss_cnt[27]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 559.000 966.270 559.600 ;
+    END
+  END miss_cnt[27]
+  PIN miss_cnt[28]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 575.320 966.270 575.920 ;
+    END
+  END miss_cnt[28]
+  PIN miss_cnt[29]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 573.960 966.270 574.560 ;
+    END
+  END miss_cnt[29]
+  PIN miss_cnt[2]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 508.680 966.270 509.280 ;
+    END
+  END miss_cnt[2]
+  PIN miss_cnt[30]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 578.040 966.270 578.640 ;
+    END
+  END miss_cnt[30]
+  PIN miss_cnt[31]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 588.920 966.270 589.520 ;
+    END
+  END miss_cnt[31]
+  PIN miss_cnt[3]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 507.320 966.270 507.920 ;
+    END
+  END miss_cnt[3]
+  PIN miss_cnt[4]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 484.200 966.270 484.800 ;
+    END
+  END miss_cnt[4]
+  PIN miss_cnt[5]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 480.120 966.270 480.720 ;
+    END
+  END miss_cnt[5]
+  PIN miss_cnt[6]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 478.760 966.270 479.360 ;
+    END
+  END miss_cnt[6]
+  PIN miss_cnt[7]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 482.840 966.270 483.440 ;
+    END
+  END miss_cnt[7]
+  PIN miss_cnt[8]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 496.440 966.270 497.040 ;
+    END
+  END miss_cnt[8]
+  PIN miss_cnt[9]
+    DIRECTION OUTPUT ;
+    USE SIGNAL ;
+    ANTENNADIFFAREA 0.702900 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 497.800 966.270 498.400 ;
+    END
+  END miss_cnt[9]
+  PIN rst_n
+    DIRECTION INPUT ;
+    USE SIGNAL ;
+    ANTENNAGATEAREA 0.126000 ;
+    PORT
+      LAYER met3 ;
+        RECT 965.670 436.600 966.270 437.200 ;
+    END
+  END rst_n
+  OBS
+      LAYER nwell ;
+        RECT 5.330 10.795 960.670 965.790 ;
+      LAYER li1 ;
+        RECT 5.520 10.795 960.480 965.685 ;
+      LAYER met1 ;
+        RECT 0.530 9.280 965.010 966.580 ;
+      LAYER met2 ;
+        RECT 0.550 976.430 324.570 976.710 ;
+        RECT 325.410 976.430 503.050 976.710 ;
+        RECT 503.890 976.430 503.970 976.710 ;
+        RECT 504.810 976.430 509.490 976.710 ;
+        RECT 510.330 976.430 755.130 976.710 ;
+        RECT 755.970 976.430 779.050 976.710 ;
+        RECT 779.890 976.430 882.090 976.710 ;
+        RECT 882.930 976.430 894.970 976.710 ;
+        RECT 895.810 976.430 964.990 976.710 ;
+        RECT 0.550 0.560 964.990 976.430 ;
+        RECT 0.550 0.070 1.650 0.560 ;
+        RECT 2.490 0.070 2.570 0.560 ;
+        RECT 3.410 0.070 29.250 0.560 ;
+        RECT 30.090 0.070 185.650 0.560 ;
+        RECT 186.490 0.070 186.570 0.560 ;
+        RECT 187.410 0.070 187.490 0.560 ;
+        RECT 188.330 0.070 188.410 0.560 ;
+        RECT 189.250 0.070 189.330 0.560 ;
+        RECT 190.170 0.070 200.370 0.560 ;
+        RECT 201.210 0.070 210.490 0.560 ;
+        RECT 211.330 0.070 226.130 0.560 ;
+        RECT 226.970 0.070 242.690 0.560 ;
+        RECT 243.530 0.070 262.930 0.560 ;
+        RECT 263.770 0.070 269.370 0.560 ;
+        RECT 270.210 0.070 386.210 0.560 ;
+        RECT 387.050 0.070 387.130 0.560 ;
+        RECT 387.970 0.070 389.890 0.560 ;
+        RECT 390.730 0.070 400.010 0.560 ;
+        RECT 400.850 0.070 404.610 0.560 ;
+        RECT 405.450 0.070 413.810 0.560 ;
+        RECT 414.650 0.070 414.730 0.560 ;
+        RECT 415.570 0.070 478.210 0.560 ;
+        RECT 479.050 0.070 490.170 0.560 ;
+        RECT 491.010 0.070 502.130 0.560 ;
+        RECT 502.970 0.070 866.450 0.560 ;
+        RECT 867.290 0.070 921.650 0.560 ;
+        RECT 922.490 0.070 964.990 0.560 ;
+      LAYER met3 ;
+        RECT 0.600 959.840 965.670 965.765 ;
+        RECT 1.000 958.440 965.670 959.840 ;
+        RECT 0.600 953.040 965.670 958.440 ;
+        RECT 1.000 951.640 965.670 953.040 ;
+        RECT 0.600 948.960 965.670 951.640 ;
+        RECT 1.000 947.560 965.670 948.960 ;
+        RECT 0.600 943.520 965.670 947.560 ;
+        RECT 1.000 942.120 965.670 943.520 ;
+        RECT 0.600 935.360 965.670 942.120 ;
+        RECT 1.000 933.960 965.670 935.360 ;
+        RECT 0.600 895.920 965.670 933.960 ;
+        RECT 1.000 894.520 965.670 895.920 ;
+        RECT 0.600 889.120 965.670 894.520 ;
+        RECT 1.000 887.720 965.670 889.120 ;
+        RECT 0.600 875.520 965.670 887.720 ;
+        RECT 1.000 874.120 965.670 875.520 ;
+        RECT 0.600 866.000 965.670 874.120 ;
+        RECT 1.000 864.600 965.670 866.000 ;
+        RECT 0.600 860.560 965.670 864.600 ;
+        RECT 1.000 859.160 965.670 860.560 ;
+        RECT 0.600 817.040 965.670 859.160 ;
+        RECT 1.000 815.640 965.670 817.040 ;
+        RECT 0.600 798.000 965.670 815.640 ;
+        RECT 1.000 796.600 965.670 798.000 ;
+        RECT 0.600 793.920 965.670 796.600 ;
+        RECT 1.000 792.520 965.670 793.920 ;
+        RECT 0.600 783.040 965.670 792.520 ;
+        RECT 1.000 780.280 965.670 783.040 ;
+        RECT 0.600 776.240 965.670 780.280 ;
+        RECT 1.000 774.840 965.670 776.240 ;
+        RECT 0.600 757.200 965.670 774.840 ;
+        RECT 1.000 755.800 965.670 757.200 ;
+        RECT 0.600 736.800 965.670 755.800 ;
+        RECT 1.000 735.400 965.670 736.800 ;
+        RECT 0.600 723.200 965.670 735.400 ;
+        RECT 1.000 721.800 965.670 723.200 ;
+        RECT 0.600 702.800 965.670 721.800 ;
+        RECT 1.000 701.400 965.670 702.800 ;
+        RECT 0.600 693.280 965.670 701.400 ;
+        RECT 1.000 691.880 965.670 693.280 ;
+        RECT 0.600 625.280 965.670 691.880 ;
+        RECT 1.000 623.880 965.670 625.280 ;
+        RECT 0.600 617.120 965.670 623.880 ;
+        RECT 1.000 589.920 965.670 617.120 ;
+        RECT 1.000 588.520 965.270 589.920 ;
+        RECT 0.600 587.200 965.670 588.520 ;
+        RECT 1.000 581.720 965.670 587.200 ;
+        RECT 0.600 579.040 965.670 581.720 ;
+        RECT 0.600 577.640 965.270 579.040 ;
+        RECT 0.600 576.320 965.670 577.640 ;
+        RECT 0.600 573.600 965.270 576.320 ;
+        RECT 1.000 573.560 965.270 573.600 ;
+        RECT 1.000 565.400 965.670 573.560 ;
+        RECT 0.600 562.720 965.670 565.400 ;
+        RECT 0.600 558.600 965.270 562.720 ;
+        RECT 0.600 549.120 965.670 558.600 ;
+        RECT 0.600 547.720 965.270 549.120 ;
+        RECT 0.600 546.400 965.670 547.720 ;
+        RECT 0.600 545.000 965.270 546.400 ;
+        RECT 0.600 542.320 965.670 545.000 ;
+        RECT 1.000 540.920 965.670 542.320 ;
+        RECT 0.600 536.880 965.670 540.920 ;
+        RECT 0.600 535.480 965.270 536.880 ;
+        RECT 0.600 534.160 965.670 535.480 ;
+        RECT 0.600 531.400 965.270 534.160 ;
+        RECT 0.600 530.080 965.670 531.400 ;
+        RECT 0.600 525.960 965.270 530.080 ;
+        RECT 0.600 519.200 965.670 525.960 ;
+        RECT 0.600 516.480 965.270 519.200 ;
+        RECT 1.000 509.640 965.270 516.480 ;
+        RECT 0.600 505.600 965.270 509.640 ;
+        RECT 1.000 505.560 965.270 505.600 ;
+        RECT 1.000 504.240 965.670 505.560 ;
+        RECT 1.000 502.840 965.270 504.240 ;
+        RECT 1.000 501.480 965.670 502.840 ;
+        RECT 0.600 498.800 965.670 501.480 ;
+        RECT 0.600 494.680 965.270 498.800 ;
+        RECT 0.600 493.360 965.670 494.680 ;
+        RECT 1.000 491.960 965.670 493.360 ;
+        RECT 0.600 486.560 965.670 491.960 ;
+        RECT 1.000 485.200 965.670 486.560 ;
+        RECT 1.000 485.160 965.270 485.200 ;
+        RECT 0.600 483.840 965.270 485.160 ;
+        RECT 1.000 482.440 965.270 483.840 ;
+        RECT 0.600 481.120 965.670 482.440 ;
+        RECT 0.600 478.360 965.270 481.120 ;
+        RECT 0.600 477.040 965.670 478.360 ;
+        RECT 1.000 474.280 965.670 477.040 ;
+        RECT 0.600 472.960 965.670 474.280 ;
+        RECT 1.000 470.200 965.670 472.960 ;
+        RECT 0.600 466.160 965.670 470.200 ;
+        RECT 1.000 463.400 965.270 466.160 ;
+        RECT 1.000 459.360 965.670 463.400 ;
+        RECT 1.000 457.960 965.270 459.360 ;
+        RECT 1.000 448.440 965.670 457.960 ;
+        RECT 0.600 447.120 965.670 448.440 ;
+        RECT 1.000 445.720 965.670 447.120 ;
+        RECT 0.600 444.400 965.670 445.720 ;
+        RECT 1.000 441.640 965.270 444.400 ;
+        RECT 1.000 437.600 965.670 441.640 ;
+        RECT 1.000 434.840 965.270 437.600 ;
+        RECT 0.600 419.920 965.270 434.840 ;
+        RECT 1.000 417.160 965.270 419.920 ;
+        RECT 0.600 410.360 965.270 417.160 ;
+        RECT 0.600 376.400 965.670 410.360 ;
+        RECT 1.000 375.000 965.670 376.400 ;
+        RECT 0.600 274.400 965.670 375.000 ;
+        RECT 0.600 273.000 965.270 274.400 ;
+        RECT 0.600 137.040 965.670 273.000 ;
+        RECT 0.600 135.640 965.270 137.040 ;
+        RECT 0.600 124.800 965.670 135.640 ;
+        RECT 0.600 123.400 965.270 124.800 ;
+        RECT 0.600 111.200 965.670 123.400 ;
+        RECT 0.600 108.440 965.270 111.200 ;
+        RECT 0.600 93.520 965.670 108.440 ;
+        RECT 0.600 92.120 965.270 93.520 ;
+        RECT 0.600 85.360 965.670 92.120 ;
+        RECT 0.600 83.960 965.270 85.360 ;
+        RECT 0.600 73.120 965.670 83.960 ;
+        RECT 0.600 71.720 965.270 73.120 ;
+        RECT 0.600 56.800 965.670 71.720 ;
+        RECT 0.600 55.400 965.270 56.800 ;
+        RECT 0.600 21.440 965.670 55.400 ;
+        RECT 0.600 15.960 965.270 21.440 ;
+        RECT 0.600 8.335 965.670 15.960 ;
+      LAYER met4 ;
+        RECT 7.655 13.095 20.640 959.305 ;
+        RECT 23.040 13.095 23.940 959.305 ;
+        RECT 26.340 13.095 50.640 959.305 ;
+        RECT 53.040 13.095 53.940 959.305 ;
+        RECT 56.340 13.095 80.640 959.305 ;
+        RECT 83.040 13.095 83.940 959.305 ;
+        RECT 86.340 13.095 110.640 959.305 ;
+        RECT 113.040 13.095 113.940 959.305 ;
+        RECT 116.340 13.095 140.640 959.305 ;
+        RECT 143.040 13.095 143.940 959.305 ;
+        RECT 146.340 13.095 170.640 959.305 ;
+        RECT 173.040 13.095 173.940 959.305 ;
+        RECT 176.340 13.095 200.640 959.305 ;
+        RECT 203.040 13.095 203.940 959.305 ;
+        RECT 206.340 13.095 230.640 959.305 ;
+        RECT 233.040 13.095 233.940 959.305 ;
+        RECT 236.340 13.095 260.640 959.305 ;
+        RECT 263.040 13.095 263.940 959.305 ;
+        RECT 266.340 13.095 290.640 959.305 ;
+        RECT 293.040 13.095 293.940 959.305 ;
+        RECT 296.340 13.095 320.640 959.305 ;
+        RECT 323.040 13.095 323.940 959.305 ;
+        RECT 326.340 13.095 350.640 959.305 ;
+        RECT 353.040 13.095 353.940 959.305 ;
+        RECT 356.340 13.095 380.640 959.305 ;
+        RECT 383.040 13.095 383.940 959.305 ;
+        RECT 386.340 13.095 410.640 959.305 ;
+        RECT 413.040 13.095 413.940 959.305 ;
+        RECT 416.340 13.095 440.640 959.305 ;
+        RECT 443.040 13.095 443.940 959.305 ;
+        RECT 446.340 13.095 470.640 959.305 ;
+        RECT 473.040 13.095 473.940 959.305 ;
+        RECT 476.340 13.095 500.640 959.305 ;
+        RECT 503.040 13.095 503.940 959.305 ;
+        RECT 506.340 13.095 530.640 959.305 ;
+        RECT 533.040 13.095 533.940 959.305 ;
+        RECT 536.340 13.095 560.640 959.305 ;
+        RECT 563.040 13.095 563.940 959.305 ;
+        RECT 566.340 13.095 590.640 959.305 ;
+        RECT 593.040 13.095 593.940 959.305 ;
+        RECT 596.340 13.095 620.640 959.305 ;
+        RECT 623.040 13.095 623.940 959.305 ;
+        RECT 626.340 13.095 650.640 959.305 ;
+        RECT 653.040 13.095 653.940 959.305 ;
+        RECT 656.340 13.095 680.640 959.305 ;
+        RECT 683.040 13.095 683.940 959.305 ;
+        RECT 686.340 13.095 710.640 959.305 ;
+        RECT 713.040 13.095 713.940 959.305 ;
+        RECT 716.340 13.095 740.640 959.305 ;
+        RECT 743.040 13.095 743.940 959.305 ;
+        RECT 746.340 13.095 770.640 959.305 ;
+        RECT 773.040 13.095 773.940 959.305 ;
+        RECT 776.340 13.095 800.640 959.305 ;
+        RECT 803.040 13.095 803.940 959.305 ;
+        RECT 806.340 13.095 830.640 959.305 ;
+        RECT 833.040 13.095 833.940 959.305 ;
+        RECT 836.340 13.095 860.640 959.305 ;
+        RECT 863.040 13.095 863.940 959.305 ;
+        RECT 866.340 13.095 890.640 959.305 ;
+        RECT 893.040 13.095 893.940 959.305 ;
+        RECT 896.340 13.095 920.640 959.305 ;
+        RECT 923.040 13.095 923.940 959.305 ;
+        RECT 926.340 13.095 945.890 959.305 ;
+      LAYER met5 ;
+        RECT 76.940 843.230 946.100 855.900 ;
+        RECT 76.940 813.230 946.100 835.130 ;
+        RECT 76.940 783.230 946.100 805.130 ;
+        RECT 76.940 753.230 946.100 775.130 ;
+        RECT 76.940 723.230 946.100 745.130 ;
+        RECT 76.940 693.230 946.100 715.130 ;
+        RECT 76.940 663.230 946.100 685.130 ;
+        RECT 76.940 633.230 946.100 655.130 ;
+        RECT 76.940 603.230 946.100 625.130 ;
+        RECT 76.940 573.230 946.100 595.130 ;
+        RECT 76.940 543.230 946.100 565.130 ;
+        RECT 76.940 513.230 946.100 535.130 ;
+        RECT 76.940 483.230 946.100 505.130 ;
+        RECT 76.940 453.230 946.100 475.130 ;
+        RECT 76.940 423.230 946.100 445.130 ;
+        RECT 76.940 393.230 946.100 415.130 ;
+        RECT 76.940 363.230 946.100 385.130 ;
+        RECT 76.940 333.230 946.100 355.130 ;
+        RECT 76.940 303.230 946.100 325.130 ;
+        RECT 76.940 273.230 946.100 295.130 ;
+        RECT 76.940 243.230 946.100 265.130 ;
+        RECT 76.940 213.230 946.100 235.130 ;
+        RECT 76.940 183.230 946.100 205.130 ;
+        RECT 76.940 153.230 946.100 175.130 ;
+        RECT 76.940 123.230 946.100 145.130 ;
+        RECT 76.940 93.230 946.100 115.130 ;
+        RECT 76.940 63.230 946.100 85.130 ;
+        RECT 76.940 45.100 946.100 55.130 ;
+  END
+END icache
+END LIBRARY
+

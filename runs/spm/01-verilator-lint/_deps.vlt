@@ -1,0 +1,5 @@
+`verilator_config
+lint_off -rule DECLFILENAME
+lint_off -rule EOFNEWLINE
+lint_off -rule UNDRIVEN -file "/home/vlsiuser/vlsi/my_designs/icache/runs/spm/tmp/118be06c516e4e7ebcc6a36f360e68f6.bb.v"
+lint_off -rule UNUSEDSIGNAL -file "/home/vlsiuser/vlsi/my_designs/icache/runs/spm/tmp/118be06c516e4e7ebcc6a36f360e68f6.bb.v"

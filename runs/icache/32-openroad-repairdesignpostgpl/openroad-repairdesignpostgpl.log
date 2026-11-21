@@ -1,0 +1,101 @@
+Reading timing models for corner max_tt_025C_1v80…
+Reading timing library for the 'max_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading timing models for corner min_ss_100C_1v60…
+Reading timing library for the 'min_ss_100C_1v60' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib line 1, library sky130_fd_sc_hd__tt_025C_1v80 already exists.
+Reading timing models for corner max_ff_n40C_1v95…
+Reading timing library for the 'max_ff_n40C_1v95' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+Reading timing models for corner nom_ff_n40C_1v95…
+Reading timing library for the 'nom_ff_n40C_1v95' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1, library sky130_fd_sc_hd__ff_n40C_1v95 already exists.
+Reading timing models for corner max_ss_100C_1v60…
+Reading timing library for the 'max_ss_100C_1v60' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib line 1, library sky130_fd_sc_hd__ss_100C_1v60 already exists.
+Reading timing models for corner min_tt_025C_1v80…
+Reading timing library for the 'min_tt_025C_1v80' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib line 1, library sky130_fd_sc_hd__tt_025C_1v80 already exists.
+Reading timing models for corner nom_ss_100C_1v60…
+Reading timing library for the 'nom_ss_100C_1v60' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib line 1, library sky130_fd_sc_hd__ss_100C_1v60 already exists.
+Reading timing models for corner min_ff_n40C_1v95…
+Reading timing library for the 'min_ff_n40C_1v95' corner at '/home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1140] /home/vlsiuser/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1, library sky130_fd_sc_hd__ff_n40C_1v95 already exists.
+Reading OpenROAD database at '/home/vlsiuser/vlsi/my_designs/icache/runs/icache/28-openroad-globalplacement/icache.odb'…
+Reading design constraints file at '/home/vlsiuser/vlsi/my_designs/icache/src/icache.sdc'…
+[INFO] No information on clock propagation in input SDC file-- propagating all clocks.
+[INFO RSZ-0027] Inserted 65 sky130_fd_sc_hd__clkdlybuf4s25_1 input buffers.
+[INFO RSZ-0028] Inserted 128 sky130_fd_sc_hd__clkdlybuf4s25_1 output buffers.
++ repair_design -verbose -max_wire_length 0.0 -slew_margin 20.0 -cap_margin 20.0
+Iteration |   Area    | Resized | Buffers | Nets repaired | Remaining
+---------------------------------------------------------------------
+        0 |     +0.0% |       0 |       0 |             0 |     26598
+     1000 |     +0.0% |       0 |       0 |             0 |     25598
+     2000 |     +0.0% |       0 |       0 |             0 |     24598
+     3000 |     +0.0% |       0 |       0 |             0 |     23598
+     4000 |     +0.0% |       6 |       7 |             6 |     22598
+     5000 |     +0.1% |      15 |      17 |            15 |     21598
+     6000 |     +0.1% |      21 |      26 |            24 |     20598
+     7000 |     +0.4% |      38 |      69 |            42 |     19598
+     8000 |     +0.5% |      51 |      95 |            55 |     18598
+     9000 |     +0.6% |      59 |     112 |            69 |     17598
+    10000 |     +1.1% |     122 |     194 |           150 |     16598
+    11000 |     +1.8% |     192 |     331 |           249 |     15598
+    12000 |     +1.9% |     198 |     344 |           263 |     14598
+    13000 |     +1.9% |     198 |     344 |           263 |     13598
+    14000 |     +1.9% |     204 |     355 |           272 |     12598
+    15000 |     +1.9% |     204 |     355 |           272 |     11598
+    16000 |     +1.9% |     204 |     355 |           272 |     10598
+    17000 |     +1.9% |     206 |     359 |           277 |      9598
+    18000 |     +1.9% |     206 |     359 |           277 |      8598
+    19000 |     +1.9% |     206 |     359 |           277 |      7598
+    20000 |     +1.9% |     206 |     359 |           277 |      6598
+    21000 |     +1.9% |     206 |     359 |           277 |      5598
+    22000 |     +1.9% |     206 |     359 |           277 |      4598
+    23000 |     +2.1% |     207 |     381 |           300 |      3598
+    24000 |     +2.1% |     207 |     381 |           300 |      2598
+    25000 |     +2.1% |     207 |     381 |           300 |      1598
+    26000 |     +2.1% |     207 |     381 |           300 |       598
+    final |     +3.0% |     253 |     526 |           346 |         0
+---------------------------------------------------------------------
+[INFO RSZ-0034] Found 346 slew violations.
+[INFO RSZ-0036] Found 303 capacitance violations.
+[INFO RSZ-0039] Resized 253 instances.
+[INFO RSZ-0038] Inserted 526 buffers in 346 nets.
+[INFO RSZ-0042] Inserted 2 tie sky130_fd_sc_hd__conb_1 instances.
+[WARNING RSZ-0020] found 2 floating nets.
+ VGND
+ VPWR
++ detailed_placement -max_displacement  500 100 
+Placement Analysis
+---------------------------------
+total displacement      82125.2 u
+average displacement        2.0 u
+max displacement           33.1 u
+original HPWL          688244.6 u
+legalized HPWL         783049.6 u
+delta HPWL                   14 %
+
+[INFO DPL-0020] Mirrored 3791 instances
+[INFO DPL-0021] HPWL before          783049.6 u
+[INFO DPL-0022] HPWL after           775185.1 u
+[INFO DPL-0023] HPWL delta               -1.0 %
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 2884 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               702    2635.03
+  Tap cell                              13061   16341.92
+  Buffer                                   28     140.13
+  Timing Repair Buffer                    719   13111.32
+  Inverter                                 18     112.61
+  Sequential cell                        9851  210363.00
+  Multi-Input combinational cell        16438  201060.33
+  Total                                 40817  443764.36
+Writing OpenROAD database to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache/32-openroad-repairdesignpostgpl/icache.odb'…
+Writing netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache/32-openroad-repairdesignpostgpl/icache.nl.v'…
+Writing powered netlist to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache/32-openroad-repairdesignpostgpl/icache.pnl.v'…
+Writing layout to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache/32-openroad-repairdesignpostgpl/icache.def'…
+Writing timing constraints to '/home/vlsiuser/vlsi/my_designs/icache/runs/icache/32-openroad-repairdesignpostgpl/icache.sdc'…
