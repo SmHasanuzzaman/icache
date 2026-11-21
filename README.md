@@ -1,6 +1,6 @@
 # Instruction Cache (`icache`) ASIC Flow
 
-Final results are in Runs/icache2
+Final results are in runs/icache2
 
 RTL implementation, verification testbench, and OpenLane 2 / OpenROAD physical design flow for an Instruction Cache (`icache`).
 
@@ -12,5 +12,5 @@ RTL implementation, verification testbench, and OpenLane 2 / OpenROAD physical d
 
 ## Simulation
 bash
-iverilog -o icache_sim src/.v tb/.v
+iverilog -o icache_sim src/*.v tb/*.v
 vvp icache_sim
