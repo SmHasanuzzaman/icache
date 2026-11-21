@@ -1,5 +1,7 @@
 # Instruction Cache (`icache`) ASIC Flow
 
+Final results are in Runs/icache2
+
 RTL implementation, verification testbench, and OpenLane 2 / OpenROAD physical design flow for an Instruction Cache (`icache`).
 
 ## Overview
